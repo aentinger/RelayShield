@@ -1,0 +1,18 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LXR_Relay_Shield	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+turn_on	KEYWORD2
+turn_off	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+E_RELAY_SELECT	LITERAL1
