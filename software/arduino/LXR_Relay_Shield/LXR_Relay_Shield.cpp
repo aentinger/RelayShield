@@ -20,6 +20,10 @@ void LXR_Relay_Shield::begin() {
   pinMode(RELAY_2_PIN, OUTPUT);
   pinMode(RELAY_3_PIN, OUTPUT);
   pinMode(RELAY_4_PIN, OUTPUT);
+  LXR_Relay_Shield::turn_off(REL1);
+  LXR_Relay_Shield::turn_off(REL2);
+  LXR_Relay_Shield::turn_off(REL3);
+  LXR_Relay_Shield::turn_off(REL4);
 }
 
 /**
