@@ -9,4 +9,4 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
 
 Weitere Informationen unter:
 
-... to be inserted
+http://www.lxrobotics.com/produkte/arduino-shields/relay-shield
