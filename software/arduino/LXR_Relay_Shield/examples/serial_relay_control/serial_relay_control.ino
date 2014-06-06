@@ -3,6 +3,17 @@
  * @brief this sketch demonstrates how the 4 relay of the LXRobotics Relay Shield can be controlled via a simple serial protocol
  * @file serial_relay_control.ino
  */
+
+// PROTOCOL Description
+// Turn Relay 1 on -> 'R11'
+// Turn Relay 1 off -> 'R10'
+// Turn Relay 2 on -> 'R21'
+// Turn Relay 2 off -> 'R20'
+// 3 Byte Protcol = [START_SIGN, RELAY_SELECTION, RELAY_STATE]
+// Start Sign = 'R'
+// Relay Selection = '1' | '2' | '3' | '4'
+// Relay State = '0' (OFF) | '1' (ON)
+
  
 #include "LXR_Relay_Shield.h"
  
