@@ -3,6 +3,9 @@ LXRobotics P12 Relay Shield
 
 ![LXRobotics P12 Relay Shield](https://www.lxrobotics.com/wp-content/uploads/mz_af_p12_side_small.jpg)
 
+## ROS Package for P12 Relay Shield
+https://github.com/lxrobotics/roslay
+
 ## Weitere Informationen / Further Information
 
 * **DE:** https://www.lxrobotics.com/produkte/arduino-shields/relay-shield
