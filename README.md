@@ -1,13 +1,14 @@
-LXRobotics P12 Relay Shield
-===========================
+<a href="https://lxrobotics.com/"><img align="right" src="https://assets.lxrobotics.com/logo-old/lxrobotics.png" width="15%"></a>
+💾 Relay Shield
+===============
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-# Image
+# 📸 Image
 
-![LXRobotics P12 Relay Shield](https://www.lxrobotics.com/wp-content/uploads/mz_af_p12_side_small.jpg)
+![LXRobotics P12 Relay Shield](images/relay-shield-top-small.jpg)
 
-# Description
+# 📂 Description
 
 The LXRobotics Relay Shield allows to independently switch up to different 4 loads. The switching of any relay is signalised by its own red status LED. High quality screw terminals ensure stable and durable connections. For an quick and easy start, a open source Arduino library with sample programs is available.
 
@@ -23,9 +24,4 @@ The LXRobotics Relay Shield allows to independently switch up to different 4 loa
 * High quality screw terminals
 * Arduino Library with example programs is available on GitHub
 
-# ROS Package for P12 Relay Shield
-https://github.com/lxrobotics/roslay
-
-# Video
-
-[![VIDEO1](http://img.youtube.com/vi/9987mt8KbmI/0.jpg)](https://www.youtube.com/watch?v=9987mt8KbmI "LXRobotics Relay Shield")
+# 🎥 [Video](images/relay_shield_demo.mp4)
